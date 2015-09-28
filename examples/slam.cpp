@@ -51,7 +51,7 @@ octomap::OcTree map (res);  /*!< Map. */
 // octomap::ColorOcTree map (res);
 
 // OpenCL parameters
-// Remember to change the corresponding arguments in `glut_viewer.cpp`
+// Remember to change the corresponding arguments in glut_viewer.cpp
 // const ICP::ICPStepConfigT CR = ICP::ICPStepConfigT::EIGEN;
 const ICP::ICPStepConfigT CR = ICP::ICPStepConfigT::POWER_METHOD;
 // const ICP::ICPStepConfigW CW = ICP::ICPStepConfigW::REGULAR;

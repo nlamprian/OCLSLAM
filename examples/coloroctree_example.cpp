@@ -55,7 +55,7 @@ void fread (const char *path, char *data, size_t n)
 
 int main(int argc, char** argv)
 {
-    std::string filename = std::string ("../data/kg_pc8d_1.bin");  // Coordinates in mm
+    std::string filename = std::string ("../data/pc8d.bin");  // Coordinates in mm
     const int n = 640 * 480;
     std::vector<cl_float8> pc8d (n);
 
