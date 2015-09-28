@@ -1,0 +1,6 @@
+<map id="pointcloud.hpp" name="pointcloud.hpp">
+<area shape="rect" id="node2" href="$ocl__processing_8hpp.html" title="Declares the classes for setting up the OpenCL OCLSLAM pipeline. " alt="" coords="142,80,276,107"/>
+<area shape="rect" id="node3" href="$glut__viewer_8cpp.html" title="Defines the functions necessary for setting up the GLUT library. " alt="" coords="5,155,117,181"/>
+<area shape="rect" id="node4" href="$ocl__processing_8cpp.html" title="Defines the classes for setting up the OpenCL OCLSLAM pipeline. " alt="" coords="142,155,276,181"/>
+<area shape="rect" id="node5" href="$slam_8cpp.html" title="An example presenting the process of setting up the SLAM pipeline. " alt="" coords="301,155,375,181"/>
+</map>

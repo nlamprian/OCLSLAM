@@ -1,0 +1,11 @@
+title: Documentation
+doc_version: 0.1.0
+url: "http://oclslam.paign10.me"
+
+permalink: /:categories/:title
+markdown: kramdown
+highlighter: pygments
+
+gems:
+  - jekyll-sitemap
+  - jemoji

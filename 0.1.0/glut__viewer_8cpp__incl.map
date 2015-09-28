@@ -1,0 +1,8 @@
+<map id="glut_viewer.cpp" name="glut_viewer.cpp">
+<area shape="rect" id="node7" href="$glut__viewer_8hpp.html" title="Declares the functions necessary for setting up the GLUT library. " alt="" coords="361,80,473,107"/>
+<area shape="rect" id="node11" href="$ocl__processing_8hpp.html" title="Declares the classes for setting up the OpenCL OCLSLAM pipeline. " alt="" coords="893,80,1027,107"/>
+<area shape="rect" id="node17" href="$freenect__rgbd_8hpp.html" title="Declares classes necessary for setting up the freenect library. " alt="" coords="667,155,793,181"/>
+<area shape="rect" id="node22" href="$pointcloud_8hpp.html" title="Declares classes that enhance the default octomap::Pointcloud. " alt="" coords="1620,155,1773,181"/>
+<area shape="rect" id="node23" href="$algorithms_8hpp.html" title="Declares classes that organize the execution of OpenCL kernels. " alt="" coords="1023,155,1179,181"/>
+<area shape="rect" id="node24" href="$common_8hpp.html" title="Declares classes used by the OpenCL interface classes in cl_algo. " alt="" coords="1091,229,1237,256"/>
+</map>

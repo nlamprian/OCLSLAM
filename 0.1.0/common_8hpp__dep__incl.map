@@ -1,0 +1,9 @@
+<map id="common.hpp" name="common.hpp">
+<area shape="rect" id="node2" href="$algorithms_8hpp.html" title="Declares classes that organize the execution of OpenCL kernels. " alt="" coords="301,80,408,107"/>
+<area shape="rect" id="node3" href="$ocl__processing_8hpp.html" title="Declares the classes for setting up the OpenCL OCLSLAM pipeline. " alt="" coords="142,155,276,181"/>
+<area shape="rect" id="node7" href="$algorithms_8cpp.html" title="Defines classes that organize the execution of OpenCL kernels. " alt="" coords="301,155,408,181"/>
+<area shape="rect" id="node8" href="$testsOCLSLAM_8cpp.html" title="Google Test Unit Tests for the OCLSLAM kernels. " alt="" coords="432,155,571,181"/>
+<area shape="rect" id="node4" href="$glut__viewer_8cpp.html" title="Defines the functions necessary for setting up the GLUT library. " alt="" coords="5,229,117,256"/>
+<area shape="rect" id="node5" href="$ocl__processing_8cpp.html" title="Defines the classes for setting up the OpenCL OCLSLAM pipeline. " alt="" coords="142,229,276,256"/>
+<area shape="rect" id="node6" href="$slam_8cpp.html" title="An example presenting the process of setting up the SLAM pipeline. " alt="" coords="301,229,375,256"/>
+</map>

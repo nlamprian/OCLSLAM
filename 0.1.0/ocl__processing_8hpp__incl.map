@@ -1,0 +1,6 @@
+<map id="ocl_processing.hpp" name="ocl_processing.hpp">
+<area shape="rect" id="node9" href="$freenect__rgbd_8hpp.html" title="Declares classes necessary for setting up the freenect library. " alt="" coords="159,80,285,107"/>
+<area shape="rect" id="node14" href="$pointcloud_8hpp.html" title="Declares classes that enhance the default octomap::Pointcloud. " alt="" coords="1115,80,1268,107"/>
+<area shape="rect" id="node15" href="$algorithms_8hpp.html" title="Declares classes that organize the execution of OpenCL kernels. " alt="" coords="518,80,673,107"/>
+<area shape="rect" id="node16" href="$common_8hpp.html" title="Declares classes used by the OpenCL interface classes in cl_algo. " alt="" coords="620,155,767,181"/>
+</map>
