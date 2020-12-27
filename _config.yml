@@ -1,11 +1,14 @@
 title: Documentation
 doc_version: 0.1.0
-url: "http://oclslam.paign10.me"
+url: https://oclslam.nlamprian.me
 
 permalink: /:categories/:title
 markdown: kramdown
-highlighter: pygments
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 gems:
   - jekyll-sitemap
   - jemoji
+  - rouge

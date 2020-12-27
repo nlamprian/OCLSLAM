@@ -1,4 +1,4 @@
-icp.paign10.me
-============================
+oclslam.nlamprian.me
+====================
 
-This is the doxygen documentation for `ICP`.
+This is the doxygen documentation for `OCLSLAM`.
