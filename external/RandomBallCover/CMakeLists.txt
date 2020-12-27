@@ -4,7 +4,7 @@ set ( RBC_TARGET RBC PARENT_SCOPE )
 
 ExternalProject_Add ( 
     RBC DEPENDS ${CLUtils_TARGET} 
-    GIT_REPOSITORY https://github.com/pAIgn10/RandomBallCover.git 
+    GIT_REPOSITORY https://github.com/nlamprian/RandomBallCover.git
     PREFIX ${CMAKE_CURRENT_BINARY_DIR} 
     CMAKE_ARGS -DCMAKE_INSTALL_PREFIX=${CMAKE_INSTALL_PREFIX} -DCLUtils_ROOT=${CLUtils_ROOT} # -DBUILD_TESTS=ON 
     INSTALL_COMMAND "" 

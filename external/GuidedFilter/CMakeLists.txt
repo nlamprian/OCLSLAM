@@ -4,7 +4,7 @@ set ( GuidedFilter_TARGET GuidedFilter PARENT_SCOPE )
 
 ExternalProject_Add ( 
     GuidedFilter DEPENDS ${CLUtils_TARGET} 
-    GIT_REPOSITORY https://github.com/pAIgn10/GuidedFilter.git 
+    GIT_REPOSITORY https://github.com/nlamprian/GuidedFilter.git
     PREFIX ${CMAKE_CURRENT_BINARY_DIR} 
     CMAKE_ARGS -DCMAKE_INSTALL_PREFIX=${CMAKE_INSTALL_PREFIX} -DCLUtils_ROOT=${CLUtils_ROOT} # -DBUILD_TESTS=ON 
     INSTALL_COMMAND "" 

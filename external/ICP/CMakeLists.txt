@@ -4,7 +4,7 @@ set ( ICP_TARGET ICP PARENT_SCOPE )
 
 ExternalProject_Add ( 
     ICP DEPENDS ${CLUtils_TARGET} ${GuidedFilter_TARGET} ${RBC_TARGET} ${EIGEN_TARGET} 
-    GIT_REPOSITORY https://github.com/pAIgn10/ICP.git 
+    GIT_REPOSITORY https://github.com/nlamprian/ICP.git
     PREFIX ${CMAKE_CURRENT_BINARY_DIR} 
     CMAKE_ARGS -DCMAKE_INSTALL_PREFIX=${CMAKE_INSTALL_PREFIX} -DCLUtils_ROOT=${CLUtils_ROOT} -DGuidedFilter_ROOT=${GuidedFilter_ROOT} -DRBC_ROOT=${RBC_ROOT} -DEIGEN_ROOT=${EIGEN_ROOT} # -DBUILD_TESTS=ON 
     INSTALL_COMMAND "" 
